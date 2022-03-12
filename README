@@ -1,0 +1,7 @@
+Program Description:
+	以FISTA求解約翰橢球問題。
+Input:
+	將data輸入於g與h中。
+Output:
+	約翰橢球。
+[Reference] Chia-Hsiang Lin, R. Wu, W.-K. Ma, C.-Y. Chi, and Y. Wang, “Maximum volume inscribed ellipsoid: A new simplex-structured matrix factorization framework via facet enumeration and convex optimization,” SIAM Journal on Imaging Sciences, vol. 11, no. 2, pp. 1651-1679, 2018.
